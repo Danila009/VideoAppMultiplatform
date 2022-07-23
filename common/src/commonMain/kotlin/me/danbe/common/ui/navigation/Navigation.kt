@@ -3,6 +3,7 @@ package me.danbe.common.ui.navigation
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.ProvidedValue
+import me.danbe.common.ui.theme.primaryBackground
 import ru.alexgladkov.odyssey.compose.base.Navigator
 import ru.alexgladkov.odyssey.compose.local.LocalRootController
 import ru.alexgladkov.odyssey.compose.navigation.RootComposeBuilder
@@ -17,6 +18,8 @@ fun Navigation(
 
     val rootController = RootComposeBuilder()
         .apply(navigationGraph).build()
+
+    rootController.backgroundColor = primaryBackground
 
     CompositionLocalProvider(
         *providers,

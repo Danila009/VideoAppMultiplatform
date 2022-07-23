@@ -1,12 +1,13 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:2:1-14:12
-INJECTED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:2:1-14:12
-INJECTED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:2:1-14:12
-INJECTED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:2:1-14:12
+ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:2:1-17:12
 MERGED from [:common] C:\Users\danbe\Desktop\ktor server\You_Tube\common\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [io.github.alexgladkov:odyssey-compose-android-debug:1.0.0-beta12] C:\Users\danbe\.gradle\caches\transforms-3\347e85c1490682de175ce7249bc09ddf\transformed\odyssey-compose-debug\AndroidManifest.xml:2:1-9:12
 MERGED from [io.github.alexgladkov:odyssey-core-android-debug:1.0.0-beta12] C:\Users\danbe\.gradle\caches\transforms-3\e4f70ba41f67b2a2f4ba2cb7c6509d69\transformed\odyssey-core-debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.alialbaali.kamel:kamel-image-android-debug:0.2.2] C:\Users\danbe\.gradle\caches\transforms-3\2e8fd0a21abf51eb71737f161841c35b\transformed\kamel-image-debug\AndroidManifest.xml:2:1-9:12
 MERGED from [dev.icerock.moko:mvvm-flow-android:0.13.0] C:\Users\danbe\.gradle\caches\transforms-3\4180bc081d82d0dc3d2967691cf0d004\transformed\mvvm-flow-debug\AndroidManifest.xml:2:1-9:12
 MERGED from [dev.icerock.moko:mvvm-core-android:0.13.0] C:\Users\danbe\.gradle\caches\transforms-3\aae08267a0379016fbe428f9e060b8ed\transformed\mvvm-core-debug\AndroidManifest.xml:2:1-9:12
 MERGED from [org.kodein.di:kodein-di-framework-compose-android-debug:7.14.0] C:\Users\danbe\.gradle\caches\transforms-3\4faca4c2f238fe6980e20ffc5dd33dea\transformed\kodein-di-framework-compose-debug\AndroidManifest.xml:2:1-7:12
@@ -29,8 +30,14 @@ MERGED from [androidx.compose.foundation:foundation-layout:1.1.0] C:\Users\danbe
 MERGED from [androidx.compose.material:material-icons-core:1.1.0] C:\Users\danbe\.gradle\caches\transforms-3\97a4b41c083c60d24ffa173149acafd1\transformed\material-icons-core-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.compose.animation:animation-core:1.1.0] C:\Users\danbe\.gradle\caches\transforms-3\6190c821f1b1fae2fbca093aa5e512ae\transformed\animation-core-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.compose.ui:ui:1.1.0] C:\Users\danbe\.gradle\caches\transforms-3\0be5a9c2418940eff5eb1daf159d8d98\transformed\ui-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.ui:ui-android-debug:1.0.0-alpha2] C:\Users\danbe\.gradle\caches\transforms-3\71cf2ad1e60ff41b2a9085701a891c97\transformed\ui-debug\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] C:\Users\danbe\.gradle\caches\transforms-3\27ff04f734ce317ea3b2535b01d3e9b2\transformed\lifecycle-viewmodel-2.5.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] C:\Users\danbe\.gradle\caches\transforms-3\941e1c2efdf5723cea8c483bfbfb3b0a\transformed\lifecycle-viewmodel-savedstate-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.ui:ui-text-android-debug:1.0.0-alpha2] C:\Users\danbe\.gradle\caches\transforms-3\4f584aa42e9118180af5ee178835d824\transformed\ui-text-debug\AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.runtime:runtime-saveable-android-debug:1.0.0-alpha2] C:\Users\danbe\.gradle\caches\transforms-3\d3898e698cd5c9a87e5a55bea769883d\transformed\runtime-saveable-debug\AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.ui:ui-graphics-android-debug:1.0.0-alpha2] C:\Users\danbe\.gradle\caches\transforms-3\1a993c050b1c8ca0b27f56d87740ac2f\transformed\ui-graphics-debug\AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.ui:ui-unit-android-debug:1.0.0-alpha2] C:\Users\danbe\.gradle\caches\transforms-3\4707e4892f56be73ad79230d0b03188b\transformed\ui-unit-debug\AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.ui:ui-geometry-android-debug:1.0.0-alpha2] C:\Users\danbe\.gradle\caches\transforms-3\79bb077fade3a13afbb146d503fb43a0\transformed\ui-geometry-debug\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.compose.ui:ui-text:1.1.0] C:\Users\danbe\.gradle\caches\transforms-3\6ccd16f1bbf5cc7ea9264380e450b23a\transformed\ui-text-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.compose.ui:ui-graphics:1.1.0] C:\Users\danbe\.gradle\caches\transforms-3\125cba852bb52b97b23ae5de24c9b12d\transformed\ui-graphics-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.compose.runtime:runtime-saveable:1.1.0] C:\Users\danbe\.gradle\caches\transforms-3\0c3b34c30a575356f38f476300e78a87\transformed\runtime-saveable-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -39,14 +46,24 @@ MERGED from [androidx.compose.ui:ui-geometry:1.1.0] C:\Users\danbe\.gradle\cache
 MERGED from [androidx.compose.runtime:runtime:1.1.0] C:\Users\danbe\.gradle\caches\transforms-3\a3d71089278deca3a2e8b670175db526\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [dev.icerock.moko:mvvm-internal-android:0.13.0] C:\Users\danbe\.gradle\caches\transforms-3\e9beac5e1c0f1d48f843f3e4fce4cfc6\transformed\mvvm-internal-debug\AndroidManifest.xml:2:1-9:12
 MERGED from [dev.icerock.moko:kswift-runtime-android-debug:0.4.0] C:\Users\danbe\.gradle\caches\transforms-3\8437b72ed43932ed3fef6d89aa1d73a7\transformed\kswift-runtime-debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\26e9871072874daa136c1f7aa58613c6\transformed\exoplayer-2.18.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\danbe\.gradle\caches\transforms-3\6815e50373f690a5ac23df8434d14a41\transformed\core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\danbe\.gradle\caches\transforms-3\0f5b7c62f87f23a21c5c05b6e4568b7f\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\danbe\.gradle\caches\transforms-3\e2e1caabd4f7186ca54c6e0c604002d7\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.compose.ui:ui-util:1.1.0] C:\Users\danbe\.gradle\caches\transforms-3\d58cadf814a3b3f488acf9d6a5961d89\transformed\ui-util-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.ui:ui-util-android-debug:1.0.0-alpha2] C:\Users\danbe\.gradle\caches\transforms-3\156f239b479329049909428a39723659\transformed\ui-util-debug\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\b7ebfe0681822b60a43795f88b3d211a\transformed\exoplayer-dash-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\c2830b832d214da5cc71402e7a24158b\transformed\exoplayer-hls-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\0609bae929c0d41aa4cc9e471dcf91c0\transformed\exoplayer-rtsp-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\a9fba665136233cc2a94918c32165be5\transformed\exoplayer-smoothstreaming-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\299b3759a2b29272c07f852e9be5f49c\transformed\exoplayer-core-2.18.1\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\danbe\.gradle\caches\transforms-3\59fa2f399591b607653153d2e633e281\transformed\appcompat-resources-1.4.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\danbe\.gradle\caches\transforms-3\d61f783a2a960e5d80055536c688eee5\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\danbe\.gradle\caches\transforms-3\83322c98421e8e1921b5457d6a424e11\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\danbe\.gradle\caches\transforms-3\5e373742cabdabb33d247131927aa4c3\transformed\emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\2f54dc217bb204c9d73419775143e0a7\transformed\exoplayer-ui-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\danbe\.gradle\caches\transforms-3\e7b9009832c6c3c18eda8dfef137fa4e\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.4.3] C:\Users\danbe\.gradle\caches\transforms-3\e4a8ae2d9b1319cbe1bd160cdfc0d968\transformed\media-1.4.3\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\danbe\.gradle\caches\transforms-3\e1e50306d012db59484b56b0d247989d\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\danbe\.gradle\caches\transforms-3\4e7e741a167bcdf8c8d9fb6b8e5c0697\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\danbe\.gradle\caches\transforms-3\672a2b7454275f3aa6c762e24cd6be78\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -57,6 +74,11 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\danbe\.gradle\
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.0] C:\Users\danbe\.gradle\caches\transforms-3\11e9f81eee70e4e099c501ed133e9ac9\transformed\lifecycle-runtime-2.5.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\danbe\.gradle\caches\transforms-3\9b616319937c8abf7b45ca71b5e73f65\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] C:\Users\danbe\.gradle\caches\transforms-3\ee24cf3dd02e512e3c30584f78ade322\transformed\lifecycle-livedata-core-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\c86ad4b71c794dbef1548ff3ae1ef629\transformed\exoplayer-datasource-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\d33c543f2c003ba857e6f378786784e1\transformed\exoplayer-database-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\588c250b894bedd6ef867af81cea7ba2\transformed\exoplayer-extractor-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\5cd8b0263251cb9220bba0af673378da\transformed\exoplayer-decoder-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\464310e8e6f60a67ad41c7f726560f1e\transformed\exoplayer-common-2.18.1\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\danbe\.gradle\caches\transforms-3\31bdd5e05343dfef8c5ee0a5b71261e2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\danbe\.gradle\caches\transforms-3\8eaf5064bedbcaf58820d04a2d4663de\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\danbe\.gradle\caches\transforms-3\899c17e0f32f8a6eaa9aa3add5bc2bad\transformed\profileinstaller-1.1.0\AndroidManifest.xml:17:1-48:12
@@ -65,25 +87,29 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\danbe\.gradle\cache
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\danbe\.gradle\caches\transforms-3\d2e213f515e73a7580d0f54150687e38\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\danbe\.gradle\caches\transforms-3\9abbd303a5903e7ae840f85e4c96913c\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\danbe\.gradle\caches\transforms-3\04f9affe14fa1c9e248dd286d8072dca\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:2:1-14:12
-INJECTED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:2:1-14:12
-INJECTED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:2:1-17:12
 	package
 		ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:2:70-96
 		INJECTED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml
-		ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:2:1-14:12
+		ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:2:1-17:12
 		INJECTED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml
-		ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:2:1-14:12
+		ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:2:1-17:12
 		INJECTED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:3:5-13:19
+ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:6:5-16:19
 MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\danbe\.gradle\caches\transforms-3\5e373742cabdabb33d247131927aa4c3\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\danbe\.gradle\caches\transforms-3\5e373742cabdabb33d247131927aa4c3\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.core:core:1.8.0] C:\Users\danbe\.gradle\caches\transforms-3\fa9b025467572a5a95de43a99ab682fc\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
@@ -99,27 +125,27 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\danbe\.gradle\cach
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] C:\Users\danbe\.gradle\caches\transforms-3\fa9b025467572a5a95de43a99ab682fc\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:5:13-39
+		ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:8:13-39
 	android:allowBackup
-		ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:4:13-40
+		ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:7:13-40
 	android:theme
-		ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:6:13-69
+		ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:9:13-69
 activity#me.danbe.android.MainActivity
-ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:7:13-12:20
+ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:10:13-15:20
 	android:exported
-		ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:7:52-75
+		ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:10:52-75
 	android:name
-		ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:7:23-51
+		ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:10:23-51
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:8:13-11:29
+ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:11:13-14:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:9:17-68
+ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:12:17-68
 	android:name
-		ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:9:25-66
+		ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:12:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:10:17-76
+ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:13:17-76
 	android:name
-		ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:10:27-74
+		ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml:13:27-74
 uses-sdk
 INJECTED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml
@@ -130,6 +156,8 @@ MERGED from [io.github.alexgladkov:odyssey-compose-android-debug:1.0.0-beta12] C
 MERGED from [io.github.alexgladkov:odyssey-compose-android-debug:1.0.0-beta12] C:\Users\danbe\.gradle\caches\transforms-3\347e85c1490682de175ce7249bc09ddf\transformed\odyssey-compose-debug\AndroidManifest.xml:5:5-7:41
 MERGED from [io.github.alexgladkov:odyssey-core-android-debug:1.0.0-beta12] C:\Users\danbe\.gradle\caches\transforms-3\e4f70ba41f67b2a2f4ba2cb7c6509d69\transformed\odyssey-core-debug\AndroidManifest.xml:5:5-7:41
 MERGED from [io.github.alexgladkov:odyssey-core-android-debug:1.0.0-beta12] C:\Users\danbe\.gradle\caches\transforms-3\e4f70ba41f67b2a2f4ba2cb7c6509d69\transformed\odyssey-core-debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.alialbaali.kamel:kamel-image-android-debug:0.2.2] C:\Users\danbe\.gradle\caches\transforms-3\2e8fd0a21abf51eb71737f161841c35b\transformed\kamel-image-debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.alialbaali.kamel:kamel-image-android-debug:0.2.2] C:\Users\danbe\.gradle\caches\transforms-3\2e8fd0a21abf51eb71737f161841c35b\transformed\kamel-image-debug\AndroidManifest.xml:5:5-7:41
 MERGED from [dev.icerock.moko:mvvm-flow-android:0.13.0] C:\Users\danbe\.gradle\caches\transforms-3\4180bc081d82d0dc3d2967691cf0d004\transformed\mvvm-flow-debug\AndroidManifest.xml:5:5-7:41
 MERGED from [dev.icerock.moko:mvvm-flow-android:0.13.0] C:\Users\danbe\.gradle\caches\transforms-3\4180bc081d82d0dc3d2967691cf0d004\transformed\mvvm-flow-debug\AndroidManifest.xml:5:5-7:41
 MERGED from [dev.icerock.moko:mvvm-core-android:0.13.0] C:\Users\danbe\.gradle\caches\transforms-3\aae08267a0379016fbe428f9e060b8ed\transformed\mvvm-core-debug\AndroidManifest.xml:5:5-7:41
@@ -174,10 +202,22 @@ MERGED from [androidx.compose.animation:animation-core:1.1.0] C:\Users\danbe\.gr
 MERGED from [androidx.compose.animation:animation-core:1.1.0] C:\Users\danbe\.gradle\caches\transforms-3\6190c821f1b1fae2fbca093aa5e512ae\transformed\animation-core-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.compose.ui:ui:1.1.0] C:\Users\danbe\.gradle\caches\transforms-3\0be5a9c2418940eff5eb1daf159d8d98\transformed\ui-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.compose.ui:ui:1.1.0] C:\Users\danbe\.gradle\caches\transforms-3\0be5a9c2418940eff5eb1daf159d8d98\transformed\ui-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-android-debug:1.0.0-alpha2] C:\Users\danbe\.gradle\caches\transforms-3\71cf2ad1e60ff41b2a9085701a891c97\transformed\ui-debug\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-android-debug:1.0.0-alpha2] C:\Users\danbe\.gradle\caches\transforms-3\71cf2ad1e60ff41b2a9085701a891c97\transformed\ui-debug\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] C:\Users\danbe\.gradle\caches\transforms-3\27ff04f734ce317ea3b2535b01d3e9b2\transformed\lifecycle-viewmodel-2.5.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] C:\Users\danbe\.gradle\caches\transforms-3\27ff04f734ce317ea3b2535b01d3e9b2\transformed\lifecycle-viewmodel-2.5.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] C:\Users\danbe\.gradle\caches\transforms-3\941e1c2efdf5723cea8c483bfbfb3b0a\transformed\lifecycle-viewmodel-savedstate-2.5.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] C:\Users\danbe\.gradle\caches\transforms-3\941e1c2efdf5723cea8c483bfbfb3b0a\transformed\lifecycle-viewmodel-savedstate-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-text-android-debug:1.0.0-alpha2] C:\Users\danbe\.gradle\caches\transforms-3\4f584aa42e9118180af5ee178835d824\transformed\ui-text-debug\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-text-android-debug:1.0.0-alpha2] C:\Users\danbe\.gradle\caches\transforms-3\4f584aa42e9118180af5ee178835d824\transformed\ui-text-debug\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.runtime:runtime-saveable-android-debug:1.0.0-alpha2] C:\Users\danbe\.gradle\caches\transforms-3\d3898e698cd5c9a87e5a55bea769883d\transformed\runtime-saveable-debug\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.runtime:runtime-saveable-android-debug:1.0.0-alpha2] C:\Users\danbe\.gradle\caches\transforms-3\d3898e698cd5c9a87e5a55bea769883d\transformed\runtime-saveable-debug\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-graphics-android-debug:1.0.0-alpha2] C:\Users\danbe\.gradle\caches\transforms-3\1a993c050b1c8ca0b27f56d87740ac2f\transformed\ui-graphics-debug\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-graphics-android-debug:1.0.0-alpha2] C:\Users\danbe\.gradle\caches\transforms-3\1a993c050b1c8ca0b27f56d87740ac2f\transformed\ui-graphics-debug\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-unit-android-debug:1.0.0-alpha2] C:\Users\danbe\.gradle\caches\transforms-3\4707e4892f56be73ad79230d0b03188b\transformed\ui-unit-debug\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-unit-android-debug:1.0.0-alpha2] C:\Users\danbe\.gradle\caches\transforms-3\4707e4892f56be73ad79230d0b03188b\transformed\ui-unit-debug\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-geometry-android-debug:1.0.0-alpha2] C:\Users\danbe\.gradle\caches\transforms-3\79bb077fade3a13afbb146d503fb43a0\transformed\ui-geometry-debug\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-geometry-android-debug:1.0.0-alpha2] C:\Users\danbe\.gradle\caches\transforms-3\79bb077fade3a13afbb146d503fb43a0\transformed\ui-geometry-debug\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.compose.ui:ui-text:1.1.0] C:\Users\danbe\.gradle\caches\transforms-3\6ccd16f1bbf5cc7ea9264380e450b23a\transformed\ui-text-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.compose.ui:ui-text:1.1.0] C:\Users\danbe\.gradle\caches\transforms-3\6ccd16f1bbf5cc7ea9264380e450b23a\transformed\ui-text-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.compose.ui:ui-graphics:1.1.0] C:\Users\danbe\.gradle\caches\transforms-3\125cba852bb52b97b23ae5de24c9b12d\transformed\ui-graphics-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -194,6 +234,8 @@ MERGED from [dev.icerock.moko:mvvm-internal-android:0.13.0] C:\Users\danbe\.grad
 MERGED from [dev.icerock.moko:mvvm-internal-android:0.13.0] C:\Users\danbe\.gradle\caches\transforms-3\e9beac5e1c0f1d48f843f3e4fce4cfc6\transformed\mvvm-internal-debug\AndroidManifest.xml:5:5-7:41
 MERGED from [dev.icerock.moko:kswift-runtime-android-debug:0.4.0] C:\Users\danbe\.gradle\caches\transforms-3\8437b72ed43932ed3fef6d89aa1d73a7\transformed\kswift-runtime-debug\AndroidManifest.xml:5:5-7:41
 MERGED from [dev.icerock.moko:kswift-runtime-android-debug:0.4.0] C:\Users\danbe\.gradle\caches\transforms-3\8437b72ed43932ed3fef6d89aa1d73a7\transformed\kswift-runtime-debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\26e9871072874daa136c1f7aa58613c6\transformed\exoplayer-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\26e9871072874daa136c1f7aa58613c6\transformed\exoplayer-2.18.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\danbe\.gradle\caches\transforms-3\6815e50373f690a5ac23df8434d14a41\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\danbe\.gradle\caches\transforms-3\6815e50373f690a5ac23df8434d14a41\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\danbe\.gradle\caches\transforms-3\0f5b7c62f87f23a21c5c05b6e4568b7f\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
@@ -202,6 +244,18 @@ MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\danbe\.gradle\caches
 MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\danbe\.gradle\caches\transforms-3\e2e1caabd4f7186ca54c6e0c604002d7\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.compose.ui:ui-util:1.1.0] C:\Users\danbe\.gradle\caches\transforms-3\d58cadf814a3b3f488acf9d6a5961d89\transformed\ui-util-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.compose.ui:ui-util:1.1.0] C:\Users\danbe\.gradle\caches\transforms-3\d58cadf814a3b3f488acf9d6a5961d89\transformed\ui-util-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-util-android-debug:1.0.0-alpha2] C:\Users\danbe\.gradle\caches\transforms-3\156f239b479329049909428a39723659\transformed\ui-util-debug\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-util-android-debug:1.0.0-alpha2] C:\Users\danbe\.gradle\caches\transforms-3\156f239b479329049909428a39723659\transformed\ui-util-debug\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\b7ebfe0681822b60a43795f88b3d211a\transformed\exoplayer-dash-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\b7ebfe0681822b60a43795f88b3d211a\transformed\exoplayer-dash-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\c2830b832d214da5cc71402e7a24158b\transformed\exoplayer-hls-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\c2830b832d214da5cc71402e7a24158b\transformed\exoplayer-hls-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\0609bae929c0d41aa4cc9e471dcf91c0\transformed\exoplayer-rtsp-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\0609bae929c0d41aa4cc9e471dcf91c0\transformed\exoplayer-rtsp-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\a9fba665136233cc2a94918c32165be5\transformed\exoplayer-smoothstreaming-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\a9fba665136233cc2a94918c32165be5\transformed\exoplayer-smoothstreaming-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\299b3759a2b29272c07f852e9be5f49c\transformed\exoplayer-core-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\299b3759a2b29272c07f852e9be5f49c\transformed\exoplayer-core-2.18.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\danbe\.gradle\caches\transforms-3\59fa2f399591b607653153d2e633e281\transformed\appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\danbe\.gradle\caches\transforms-3\59fa2f399591b607653153d2e633e281\transformed\appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\danbe\.gradle\caches\transforms-3\d61f783a2a960e5d80055536c688eee5\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
@@ -210,6 +264,12 @@ MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\danbe\.gradle\c
 MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\danbe\.gradle\caches\transforms-3\83322c98421e8e1921b5457d6a424e11\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\danbe\.gradle\caches\transforms-3\5e373742cabdabb33d247131927aa4c3\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\danbe\.gradle\caches\transforms-3\5e373742cabdabb33d247131927aa4c3\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\2f54dc217bb204c9d73419775143e0a7\transformed\exoplayer-ui-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\2f54dc217bb204c9d73419775143e0a7\transformed\exoplayer-ui-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\danbe\.gradle\caches\transforms-3\e7b9009832c6c3c18eda8dfef137fa4e\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\danbe\.gradle\caches\transforms-3\e7b9009832c6c3c18eda8dfef137fa4e\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.4.3] C:\Users\danbe\.gradle\caches\transforms-3\e4a8ae2d9b1319cbe1bd160cdfc0d968\transformed\media-1.4.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.4.3] C:\Users\danbe\.gradle\caches\transforms-3\e4a8ae2d9b1319cbe1bd160cdfc0d968\transformed\media-1.4.3\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\danbe\.gradle\caches\transforms-3\e1e50306d012db59484b56b0d247989d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\danbe\.gradle\caches\transforms-3\e1e50306d012db59484b56b0d247989d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\danbe\.gradle\caches\transforms-3\4e7e741a167bcdf8c8d9fb6b8e5c0697\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -230,6 +290,16 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\danbe\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\danbe\.gradle\caches\transforms-3\9b616319937c8abf7b45ca71b5e73f65\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] C:\Users\danbe\.gradle\caches\transforms-3\ee24cf3dd02e512e3c30584f78ade322\transformed\lifecycle-livedata-core-2.5.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] C:\Users\danbe\.gradle\caches\transforms-3\ee24cf3dd02e512e3c30584f78ade322\transformed\lifecycle-livedata-core-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\c86ad4b71c794dbef1548ff3ae1ef629\transformed\exoplayer-datasource-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\c86ad4b71c794dbef1548ff3ae1ef629\transformed\exoplayer-datasource-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\d33c543f2c003ba857e6f378786784e1\transformed\exoplayer-database-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\d33c543f2c003ba857e6f378786784e1\transformed\exoplayer-database-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\588c250b894bedd6ef867af81cea7ba2\transformed\exoplayer-extractor-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\588c250b894bedd6ef867af81cea7ba2\transformed\exoplayer-extractor-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\5cd8b0263251cb9220bba0af673378da\transformed\exoplayer-decoder-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\5cd8b0263251cb9220bba0af673378da\transformed\exoplayer-decoder-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\464310e8e6f60a67ad41c7f726560f1e\transformed\exoplayer-common-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\464310e8e6f60a67ad41c7f726560f1e\transformed\exoplayer-common-2.18.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\danbe\.gradle\caches\transforms-3\31bdd5e05343dfef8c5ee0a5b71261e2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\danbe\.gradle\caches\transforms-3\31bdd5e05343dfef8c5ee0a5b71261e2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\danbe\.gradle\caches\transforms-3\8eaf5064bedbcaf58820d04a2d4663de\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
@@ -256,6 +326,12 @@ INJECTED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\Andro
 		INJECTED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml
 		ADDED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\danbe\Desktop\ktor server\You_Tube\android\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\299b3759a2b29272c07f852e9be5f49c\transformed\exoplayer-core-2.18.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\464310e8e6f60a67ad41c7f726560f1e\transformed\exoplayer-common-2.18.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\464310e8e6f60a67ad41c7f726560f1e\transformed\exoplayer-common-2.18.1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\danbe\.gradle\caches\transforms-3\299b3759a2b29272c07f852e9be5f49c\transformed\exoplayer-core-2.18.1\AndroidManifest.xml:24:22-76
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\danbe\.gradle\caches\transforms-3\5e373742cabdabb33d247131927aa4c3\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\danbe\.gradle\caches\transforms-3\feecf4875323a3bbc085ac60c3c18ac3\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20

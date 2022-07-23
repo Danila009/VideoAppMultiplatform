@@ -10,6 +10,8 @@ plugins {
 group = "me.danbe"
 version = "1.0"
 
+val mokoMvvmVersion = "0.13.0"
+
 kotlin {
     android()
     jvm("desktop") {
@@ -24,9 +26,11 @@ kotlin {
                 api(compose.foundation)
                 api(compose.material)
 
-                val mokoMvvmVersion = "0.13.0"
                 api("dev.icerock.moko:mvvm-core:$mokoMvvmVersion")
                 api("dev.icerock.moko:mvvm-flow:$mokoMvvmVersion")
+
+                //Image loader
+                implementation("com.alialbaali.kamel:kamel-image:0.2.2")
 
                 // DI
                 implementation("org.kodein.di:kodein-di:7.14.0")
@@ -34,10 +38,8 @@ kotlin {
 
                 //Ktor
                 implementation("io.ktor:ktor-client-core:2.0.2")
-//                implementation("io.ktor:ktor-client-logging:2.0.2")
                 implementation("io.ktor:ktor-serialization-kotlinx-json:2.0.2")
                 implementation("io.ktor:ktor-client-content-negotiation:2.0.2")
-//                implementation("io.ktor:ktor-client-apache:2.0.2")
 
                 // Navigation
                 implementation("io.github.alexgladkov:odyssey-core:1.0.0-beta12")
@@ -54,8 +56,16 @@ kotlin {
                 api("androidx.appcompat:appcompat:1.4.2")
                 api("androidx.core:core-ktx:1.8.0")
 
+                api("dev.icerock.moko:mvvm-core:$mokoMvvmVersion")
+                api("dev.icerock.moko:mvvm-flow:$mokoMvvmVersion")
+
+                // DI
+                implementation("org.kodein.di:kodein-di:7.14.0")
+                implementation("org.kodein.di:kodein-di-framework-compose:7.14.0")
+
                 //Ktor
                 implementation("io.ktor:ktor-client-core:2.0.2")
+                implementation("io.ktor:ktor-client-okhttp:2.0.2")
             }
         }
         val androidTest by getting {
@@ -67,8 +77,16 @@ kotlin {
             dependencies {
                 api(compose.preview)
 
+                api("dev.icerock.moko:mvvm-core:$mokoMvvmVersion")
+                api("dev.icerock.moko:mvvm-flow:$mokoMvvmVersion")
+
+                // DI
+                implementation("org.kodein.di:kodein-di:7.14.0")
+                implementation("org.kodein.di:kodein-di-framework-compose:7.14.0")
+
                 //Ktor
                 implementation("io.ktor:ktor-client-core:2.0.2")
+                implementation("io.ktor:ktor-client-apache:2.0.2")
             }
         }
         val desktopTest by getting

@@ -10,17 +10,28 @@ import io.ktor.serialization.kotlinx.json.*
 import kotlinx.serialization.json.Json
 import org.kodein.di.*
 import me.danbe.common.data.network.Api
+import me.danbe.common.data.network.HttpEngineFactory
+import me.danbe.common.ui.screen.mainScreen.MainViewModel
 
 val apiModule = DI.Module("apiModule"){
+
+    bindSingleton { HttpEngineFactory() }
+
     bindSingleton {
-        HttpClient {
+        Json {
+            ignoreUnknownKeys = true
+            explicitNulls = false
+        }
+    }
+
+    bindSingleton {
+
+        val httpEngineFactory = instance<HttpEngineFactory>()
+
+        HttpClient(httpEngineFactory.createEngine()) {
+
             install(ContentNegotiation){
-                json(
-                    Json {
-                        ignoreUnknownKeys = true
-                        explicitNulls = false
-                    }
-                )
+                json(instance())
             }
 
             defaultRequest {
@@ -39,4 +50,10 @@ val apiModule = DI.Module("apiModule"){
             httpClient = instance()
         )
     }
+}
+
+val viewModelsModule = DI.Module("viewModelsModule"){
+    bindProvider { MainViewModel(
+        api = instance()
+    ) }
 }

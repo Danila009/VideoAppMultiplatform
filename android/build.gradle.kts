@@ -15,21 +15,12 @@ dependencies {
     implementation(project(":common"))
     implementation("androidx.activity:activity-compose:1.5.0")
 
+    //ExoPlayer
+    implementation("com.google.android.exoplayer:exoplayer:2.18.1")
+
     // Navigation
     implementation("io.github.alexgladkov:odyssey-core:1.0.0-beta12")
     implementation("io.github.alexgladkov:odyssey-compose:1.0.0-beta12")
-
-//    //ExoPlayer
-////    implementation("com.github.Danila009:exo-player-compose:0.2.0")
-//    implementation("com.google.android.exoplayer:exoplayer:2.18.1")
-//
-//    //Glide
-//    implementation("com.github.skydoves:landscapist-glide:1.5.3")
-
-//    //Kodein
-//    implementation("org.kodein.di:kodein-di-framework-android-core:7.14.0")
-//    implementation("org.kodein.di:kodein-di-framework-android-x:7.14.0")
-//    implementation("org.kodein.di:kodein-di-framework-compose:7.14.0")
 
     //Ktor
     implementation("io.ktor:ktor-client-core:2.0.2")
